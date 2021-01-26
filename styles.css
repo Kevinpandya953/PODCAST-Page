@@ -204,7 +204,6 @@ nav ul li.btn.hide i:before {
     background: rgba(62, 139, 255, 0.1);
     border-radius: 50%;
 }
-
 /*.navigation{
     background-color: #282B33;
     position: absolute;
@@ -1029,5 +1028,54 @@ span{
         height: 45px;
         top: 1950px;
     }
+    .Ellipse3{
+        display: none;
+    }
+    .Ellipse4{
+        display: none;
+    }
+    .Ellipse5{
+        display: none;
+    }
+    .Ellipse6{
+        display: none;
+    }
+    .Ellipse7{
+        display: none;
+    }
+    .Ellipse8{
+        display: none;
+    }
+    .Ellipse9{
+        display: none;
+    }
+    .Ellipse10{
+        display: none;
+    }
+    .Ellipse11{
+        display: none;
+    }
+    .Ellipse12{
+        display: none;
+    }
+    .Ellipse13{
+        display: none;
+    }
+    .Ellipse14{
+        display: none;
+    }
+    .Ellipse15{
+        display: none;
+    }
+    .Ellipse16{
+        display: none;
+    }
+    .Ellipse17{
+        display: none;
+    }
+    .Ellipse18{
+        display: none;
+    }
  
 }
+
